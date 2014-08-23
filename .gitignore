@@ -1,0 +1,10 @@
+/auto/resume.el
+/missfont.log
+/resume.aux
+/resume.log
+/template.pdf
+*.log
+*.pdf
+*.aux
+*~
+*.out
